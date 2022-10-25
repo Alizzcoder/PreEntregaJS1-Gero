@@ -12,7 +12,7 @@ let plazofijo = CrearPlazofijo();
 
 //****  Funciones a usar ********
 
-//La funcion toma de datos es para que mas adelante se pueda hacer un login
+//La funcion toma de datos es para que más adelante se pueda hacer un login
 function tomadedatos(){
       let nombre= prompt ("Ingrese su nombre")
       let apellido= prompt ("Ingrese su apellido")
